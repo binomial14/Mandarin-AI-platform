@@ -23,8 +23,8 @@ author: Leo Wu
 email: yuan.leowu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   本專案為堉璘人才培育計畫之回饋計畫，提供一個中文的 AI 資訊整合平台，對中文的 AI 學習資料進行有系統地整理。
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Mandarin-AI-platform/" # the subpath of your site, e.g. /blog
+url: "https://binomial14.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
