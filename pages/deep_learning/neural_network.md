@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 類神經網路 Neural Network
-permalink: /Mandarin-AI-platform/pages/deep_learning/neural_network/
+permalink: /pages/deep_learning/neural_network/
 ---
 
 現今機器學習有極高比例是以深度學習為主，而實作類神經網路最流行的工具當屬 [PyTorch](https://pytorch.org)

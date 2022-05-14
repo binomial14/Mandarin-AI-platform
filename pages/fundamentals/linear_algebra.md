@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 線性代數 Linear Algebra
-permalink: /Mandarin-AI-platform/pages/fundamentals/linear_algebra/
+permalink: /pages/fundamentals/linear_algebra/
 ---
 
 + 線性代數
