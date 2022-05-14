@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 無監督學習 Unsupervised Learning
-permalink: /pages/machine_learning/unsupervised_learning/
+permalink: /Mandarin-AI-platform/pages/machine_learning/unsupervised_learning/
 ---
 
 + 降維 Dimensionality Reduction
