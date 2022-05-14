@@ -8,25 +8,25 @@ layout: home
 
 ## 基礎知識
 
-+ [線性代數 Linear Algebra](/pages/linear_algebra/)
++ [線性代數 Linear Algebra](/pages/fundamentals/linear_algebra/)
 
 ## 機器學習 Machine Learning
 
-+ [監督學習 Supervised Learning](/pages/supervised_learning/)
-+ [無監督學習 Unsupervised Learning](/pages/unsupervised_learning/)
-+ [自監督學習 Self-Supervised Learning](/pages/selfsupervised_learning/)
-+ [強化學習 Reinforcement Learning](/pages/reinforcement_learning/)
-+ [集成學習 Ensemble Learning](/pages/ensemble_learning/)
++ [監督學習 Supervised Learning](/pages/machine_learning/supervised_learning/)
++ [無監督學習 Unsupervised Learning](/pages/machine_learning/unsupervised_learning/)
++ [自監督學習 Self-Supervised Learning](/pages/machine_learning/selfsupervised_learning/)
++ [強化學習 Reinforcement Learning](/pages/machine_learning/reinforcement_learning/)
++ [集成學習 Ensemble Learning](/pages/machine_learning/ensemble_learning/)
 
 ## 深度學習 Deep Learning
 
-+ [類神經網路 Neural Network](/pages/neural_network/)
++ [類神經網路 Neural Network](/pages/deep_learning/neural_network/)
 
 ## 特別領域
 
-+ [自然語言處理 Natural Lanaguage Processing](/pages/nlp/)
-+ [語音處理 Speech Processing](/pages/sp/)
-+ [電腦視覺 Computer Vision](/pages/cv/)
++ [自然語言處理 Natural Lanaguage Processing](/pages/special_fields/nlp/)
++ [語音處理 Speech Processing](/pages/special_fields/sp/)
++ [電腦視覺 Computer Vision](/pages/special_fields/cv/)
 
 ## 自主學習資源
 
