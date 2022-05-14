@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 自監督學習 Self-Supervised Learning
-permalink: /pages/selfsupervised_learning/
+permalink: /pages/machine_learning/selfsupervised_learning/
 ---
 
 自監督學習介於監督學習與非監督學習之間，與非監督學習一樣，自監督學習的資料是沒有標記的，模型需要自己產生標記並進行學習，具體的操作方式可以參考這篇[文章](https://writings.jigfopsda.com/zh/posts/2021/self_supervised_learning/)

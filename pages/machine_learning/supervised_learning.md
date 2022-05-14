@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 監督學習 Supervised Learning
-permalink: /pages/supervised_learning/
+permalink: /pages/machine_learning/supervised_learning/
 ---
 
 + 回歸 Regression

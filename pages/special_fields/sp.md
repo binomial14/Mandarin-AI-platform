@@ -1,5 +1,5 @@
 ---
 layout: page
 title: 語音處理 Speech Processing
-permalink: /pages/sp/
+permalink: /pages/special_fields/sp/
 ---
