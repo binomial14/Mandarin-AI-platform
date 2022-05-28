@@ -4,8 +4,6 @@
 
 layout: home
 ---
-# 人工智慧
-
 ## 基礎知識
 
 + [線性代數 Linear Algebra](/Mandarin-AI-platform/pages/fundamentals/linear_algebra/)
@@ -30,6 +28,6 @@ layout: home
 
 ## 自主學習資源
 
-+ [台大李宏毅老師機器學習課程](https://www.youtube.com/c/HungyiLeeNTU) （適合練習實作）
-+ [台大林軒田老師機器學習基石與技法](https://www.youtube.com/c/hsuantien) （適合學習理論）
-+ [人工智慧共創平台](https://aidea-web.tw) （平台上有許多產學界提供的 AI 議題與競賽，可以磨練實作能力）
++ [台大李宏毅老師機器學習課程](/Mandarin-AI-platform/pages/others/hungyilee) 
++ [台大林軒田老師機器學習基石與技法](/Mandarin-AI-platform/pages/others/hsuantienlin) 
++ [人工智慧共創平台](/Mandarin-AI-platform/pages/others/aidea) （平台上有許多產學界提供的 AI 議題與競賽，可以磨練實作能力）

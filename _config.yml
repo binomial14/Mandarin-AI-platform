@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
 
 disqus:
-  shortname: mandarin_ai_cheatsheet
+  shortname: #mandarin_ai_cheatsheet
 
 # Exclude from processing.
 # The following items will not be processed, by default.
