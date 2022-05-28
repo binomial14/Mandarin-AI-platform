@@ -1,6 +1,7 @@
 # [人工智慧中文資訊整合平台](https://binomial14.github.io/Mandarin-AI-platform/)
 
 本專案為堉璘人才培育計畫之回饋計畫，提供一個中文的 AI 資訊整合平台，對中文的 AI 學習資料進行有系統地整理。
+靈感來自於以英文撰寫的 [AI Expert Roadmap](https://i.am.ai/roadmap)
 
 ## 貢獻
 
