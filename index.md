@@ -6,6 +6,7 @@ layout: home
 ---
 ## 基礎知識
 
++ [資料 Data](/Mandarin-AI-platform/pages/fundamentals/data/)
 + [線性代數 Linear Algebra](/Mandarin-AI-platform/pages/fundamentals/linear_algebra/)
 
 ## 機器學習 Machine Learning
